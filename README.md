@@ -17,7 +17,7 @@ Will it ever hit the corner? Who knows!
 ## Running
 
 * Open 'dvd_logo.dol' in Dolphin, or...
-* Copy 'dvd_logo.dol' to your /apps/ folder on your SD card and run it from the Homebrew Channel
+* Copy 'dvd_logo.dol' to a /dvd-logo-demo folder inside the /apps folder on your SD card and run it from the Homebrew Channel
 
 ## License
 
