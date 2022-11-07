@@ -1,5 +1,7 @@
 # DVD Logo Demo - Wii
 
+(I had made this before realizing that [BounceWii](https://github.com/Greeg0/BounceWii) existed, so if you want to use a more featured rich, and more polished DVD logo app, I'd say use BounceWii instead)
+
 Just a simple demo of the DVD logo bouncing around the screen.
 Will it ever hit the corner? Who knows!
 
